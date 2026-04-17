@@ -1,0 +1,8 @@
+streamlit
+pandas
+ydata-profiling
+scikit-learn
+xgboost
+mlflow
+shap
+imbalanced-learn
